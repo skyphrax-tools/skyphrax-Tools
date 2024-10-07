@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🤖   Young Belgian programmern 16 years old, working in Web (Angular, React and simple Html) for 5 years. <br><br>✨   Apprentice dev lua for fivem and UI fivem.<br><br>🆓   I offer web templates or even free fivem script and mapping fivem.<br><br>⏳   I stream sometimes either for fivem or by coding a web page.</p>
+<p align="left">🤖   Young Belgian programmern 17 years old, working in Web (Angular, React and simple Html) for 6 years. <br><br>✨   Developer lua for fivem and UI fivem.<br><br>🆓   I offer web templates or even free fivem script and mapping fivem.<br><br>⏳   I stream sometimes either for fivem or by coding a web page.</p>
 
 ###
 
@@ -29,10 +29,10 @@
 ###
 
 <div align="left">
-  <a href="twitch.tv/nhskyphrax" target="_blank">
+  <a href="twitch.tv/skyphrax_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="NH Skyphrax#8801" target="_blank">
+  <a href="skyphrax" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="skyphraxoff@gmail.com" target="_blank">
