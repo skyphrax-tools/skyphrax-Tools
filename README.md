@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🤖   Young Belgian programmern 17 years old, working in Web (Angular, React and simple Html) for 6 years. <br><br>✨   Developer lua for fivem and UI fivem.<br><br>🆓   I offer web templates or even free fivem script and mapping fivem.<br><br>⏳   I stream sometimes either for fivem or by coding a web page.</p>
+<p align="left">🤖   Young Belgian programmern 18 years old, working in Web (Angular, React and simple Html) for 6 years. <br><br>✨   Developer lua for fivem and UI fivem.<br><br>🆓   I offer web templates or even free fivem script and mapping fivem.<br><br>⏳   I stream sometimes either for fivem or by coding a web page.</p>
 
 ###
 
